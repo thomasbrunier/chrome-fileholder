@@ -1,0 +1,7 @@
+{
+  "description": "An empty extension to hold local files",
+  "manifest_version": 2,
+  "name": "Chrome fileholder",
+  "version": "0.1",
+  "web_accessible_resources": [ "*" ]
+}
